@@ -6,4 +6,6 @@
 
 feature selection
 parametric/non-parametric learning algorithms
+classification
+quadratic convergence
 """
